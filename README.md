@@ -1,5 +1,5 @@
 # Simulation and Modeling – Assignment 1
-**Topic:** Parameter Estiamtion - Offline Least Squares Estimation Method (LSE)  
+**Topic:** Parameter Estimation - Offline Least Squares Estimation Method (LSE)  
 **Course:** Simulation and Modeling of Dynamic Systems  
 
 ## 📘 Description
