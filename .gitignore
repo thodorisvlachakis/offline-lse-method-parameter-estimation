@@ -1,3 +1,6 @@
 # MATLAB backup files
 *.asv
 *.m~
+
+# Ignore test scripts
+test*.m
