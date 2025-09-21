@@ -3,4 +3,4 @@
 *.m~
 
 # Ignore test scripts
-test*.m
+code/tests/
