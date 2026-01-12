@@ -23,6 +23,8 @@
 % state vector. Also, define the control input of the system and use it to
 % sample the control input.
 
+addpath(fullfile(pwd, '..', 'simple-pendulum-system'));
+
 % Define the actual parameters of the simple pendulum system
 g = 9.8;
 m = 0.75;
