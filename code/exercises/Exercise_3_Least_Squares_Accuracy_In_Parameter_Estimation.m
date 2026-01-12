@@ -28,6 +28,8 @@
 % system (as it is defined in the Exercises 1 & 2) and use it to sample the
 % control input.
 
+addpath(fullfile(pwd, '..', 'simple-pendulum-system'));
+
 % Define the actual parameters of the simple pendulum system
 g = 9.8;
 m = 0.75;
