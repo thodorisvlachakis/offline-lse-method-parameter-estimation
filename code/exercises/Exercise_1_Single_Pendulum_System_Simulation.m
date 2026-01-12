@@ -4,6 +4,8 @@
 % system. We will simulate the system response and we will create the graphical
 % representations of the states of the system.
 
+addpath(fullfile(pwd, '..', 'simple-pendulum-system'));
+
 % Define the parameters of the simple pendulum system
 m = 0.75;
 c = 0.15;
