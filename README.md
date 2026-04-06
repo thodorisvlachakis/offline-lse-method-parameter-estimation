@@ -1,9 +1,12 @@
-# Simulation and Modeling – Assignment 1
+# Offline Least Squares Estimation Method
+This repository contains the implementation of the first assignment of the Simulation & Modeling of Dynamic Systems course.  
+The goal of this assignment is to implement the Least Squares Method (offline version) for system's parameter estimation.
+
 **Topic:** Parameter Estimation - Offline Least Squares Estimation Method (LSE)  
 **Course:** Simulation and Modeling of Dynamic Systems  
 
 ## 📘 Description
-This project focuses on the **offline estimation of unknown parameters** of a dynamic system using the **Least Squares Estimation (LSE)** method.  
+This project focuses on the **offline estimation of unknown parameters** of a dynamic system using the **Least Squares (Least Squared Error) Estimation (LSE)** method.  
 
 The system is a **linearized simple pendulum with input torque**, described by:
 
