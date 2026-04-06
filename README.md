@@ -37,7 +37,7 @@ The goal is to estimate the unknown parameters \( m, L, c \) using LSE, compare 
 
 ## 📂 Repository Structure
 ```
-simulation-modeling-offline-lse-method
+offline-lse-method-parameter-estimation
 │
 ├──code/
 │ ├── simple-pendulum-system/       # Functions defining the pendulum system
